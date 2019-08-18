@@ -1,2 +1,2 @@
-# Langtons_Ant
+# Langtons Ant
 A simulation of Langton's Ant, written in C++
