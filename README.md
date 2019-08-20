@@ -17,5 +17,5 @@ A simulation of Langton's Ant, written in C++
 > 4. Type `1` and press `Enter` to play
 > 5. Follow the game set-up instructions, and begin
 
-## What I learned:
+## Tech and/or concepts learned/used:
 > 
