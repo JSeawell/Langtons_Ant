@@ -18,4 +18,10 @@ A simulation of Langton's Ant, written in C++
 > 5. Follow the game set-up instructions, and begin
 
 ## Tech and/or concepts learned/used:
-> 
+> - C++
+> - C++ Libraries
+> - Multi-source-file programming
+> - Dynamic arrays
+> - Input validation
+> - Documentation
+> - Design planning
